@@ -1,7 +1,7 @@
-function ChangingFromFahrenheitToCelsius(){  
+function convertFromFahrenheitToCelsius(){  
 }
 
-function ChangingFromCelsiusToFahrenheit(){  
+function convertFromCelsiusToFahrenheit(){  
 }
 
 

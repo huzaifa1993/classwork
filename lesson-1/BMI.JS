@@ -1,2 +1,2 @@
-function BodyMassIndex(){  
+function bodyMassIndex(){  
 }
